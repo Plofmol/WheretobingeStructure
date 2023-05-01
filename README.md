@@ -58,19 +58,16 @@
  
 ## Learning Outcome 8: Professional (IP)(#learning-outcome-8-professional-ip)(#learning-outcome-8-professional-ip)
 *You act in a **professional manner** during software development and learning.*
-- [ ] analyzing and modeling an exisitng business process in project
-- [ ] analyzing process and improving on conclusions
+- [ ] 
+- [ ] 
 - [ ] 
 
 ## Learning Outcome 8: Professional (GP)(#learning-outcome-8-professional-gp)(#learning-outcome-8-professional-gp)
 *You act in a **professional manner** during software development and learning.*
-- [x] test
-- [ ] test
+- [x] Team Communication
+- [ ] Communication with the Stakeholders
 
-## Learning Outcome 1: Web Application (IP)
-*You design and build **user-friendly**, **full-stack** web applications.*
-- [x] test
-- [ ] test
+
 
 # Details   
 
