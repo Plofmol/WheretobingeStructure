@@ -12,8 +12,8 @@
 
 ## Learning Outcome 1: Web Application (GP)(#learning-outcome-1-web-application-gp)
 *You design and build **user-friendly**, **full-stack** web applications.*
-- [ ] GroopySwoopy
-- [ ] GroopySwoopy
+- [ ] GroopySwoopy Back end 
+- [ ] GroopySwoopy Front end
 
 ## Learning Outcome 2: Software Quality(#learning-outcome-2-software-quality)
 *You use software **tooling and methodology** that continuously monitors and improve the software quality during software development.*
