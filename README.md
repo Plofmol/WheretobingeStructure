@@ -5,14 +5,14 @@
 ## Learning Outcome 1: Web Application (IP)(#learning-outcome-1-web-application-ip)
 *You design and build **user-friendly**, **full-stack** web applications.*
 - [x] Wheretobinge Structure
-- [ ] Wheretobinge ORM
+- [X] Wheretobinge ORM
 - [ ] Wheretobinge Frontend
 - [ ] Wheretobinge (final finished)
 
 
 ## Learning Outcome 1: Web Application (GP)(#learning-outcome-1-web-application-gp)
 *You design and build **user-friendly**, **full-stack** web applications.*
-- [ ] GroopySwoopy Back end 
+- [X] GroopySwoopy Back end 
 - [ ] GroopySwoopy Front end
 
 ## Learning Outcome 2: Software Quality(#learning-outcome-2-software-quality)
@@ -31,9 +31,9 @@
 
 ## Learning Outcome 4: CI/CD(#learning-outcome-4-cicd)
 *You **design and implement** a (semi)automated software release process that matches the needs of the project context.*
-- [ ] ReseaRch CI (https://fhict.instructure.com/courses/12992/pages/continuous-integration?module_item_id=911586)
+- [x] ReseaRch CI (https://fhict.instructure.com/courses/12992/pages/continuous-integration?module_item_id=911586)
 - [x] Research CD
-- [ ] Setting up CI
+- [x] Setting up CI
 - [ ] setting up CD
 - [x] CI/CD (GP) (partial)
 
@@ -47,7 +47,7 @@
 ## Learning Outcome 6: Design (GP + IP)(#learning-outcome-6-requirements)
 *You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using **multiple types of test techniques**.*
 - [x] Research on basics
-- [ ] design
+- [ ] design (working on it)
 - [ ] testing
 
 ## Learning Outcome 7: Business processes(#learning-outcome-7-business-processes)
