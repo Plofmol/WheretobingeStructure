@@ -25,8 +25,8 @@
 ## Learning Outcome 3: Agile Method(#learning-outcome-3-agile-method)
 *You can implement the software process for your project according to a given agile software development method.*
 - [x] Research Scrum
-- [ ] Research waterfall
-- [ ] Research Kanban
+- [x] Research waterfall
+- [x] Research Kanban
 - [ ] Researchpaper on agIle
 
 ## Learning Outcome 4: CI/CD(#learning-outcome-4-cicd)
